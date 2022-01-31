@@ -525,6 +525,7 @@ li {
     .hero__img {
         order: 2;
         width: 100%;
+        max-width: 600px;
     }
 
     .hero__box {
